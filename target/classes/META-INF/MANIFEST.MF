@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sqshop-micservice-order
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sleepq123
+Implementation-Vendor-Id: cn.sleepq123
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sqshop-micservice-order
+Created-By: Maven Integration for Eclipse
+
